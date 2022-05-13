@@ -29,6 +29,8 @@
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/omfoboyhu
+/
+FURIOUS-SPAM-BOT.git)
 ------------------------------------------------
 
